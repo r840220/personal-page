@@ -54,12 +54,12 @@ const dirlist = [
   {title: '個人檔案', path: 'ma', isNav: true},
   {title: 'laravel', path: 'laravel', isNav: false},
   {title: 'vue', path: 'vue', isNav: false},
-  {title: 'git', path: 'git', isNav: true},
+  {title: 'git', path: 'git', isNav: false},
   {title: '爬蟲爬起來', path: 'crawler', isNav: false},
 ];
 
 module.exports = {
-	title: '馬榮學習紀錄',
+	title: '668755學習筆記',
   displayAllHeaders: true,
 	themeConfig: {
 		nav: getNavList(dirlist),

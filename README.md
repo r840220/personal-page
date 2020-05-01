@@ -6,7 +6,7 @@
 	yarn docs:dev
 
 ## 部署
-
+	bash deploy.sh
 
 
 

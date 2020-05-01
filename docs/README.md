@@ -1,8 +1,8 @@
 ---
 home: true
-heroText: 668755
+heroText: 668755學習筆記
 tagline:  每寫好一篇，每月多一千
-actionText: 快速開始 →
+actionText: 自我介紹 →
 actionLink: /ma/
 <!-- features:
 - title: laravel
@@ -37,6 +37,10 @@ footer: Copyright © 2020-present
   <div class="feature">
     <h2><a href="/crawler/">crawler</a></h2>
     <p>四處亂爬</p>
+  </div>
+  <div class="feature">
+    <h2><a href="/crawler/">隨手筆記</a></h2>
+    <p>待整理資訊</p>
   </div>
 </div>
 
